@@ -379,7 +379,7 @@ The two main areas of future development are
 
 ## Ways to extend to ML libraries not natively supported
 
-One can think of this as being analogous to hadoop streaming.  Aloha can be integrated with other platforms
+One can think of this as being analogous to Hadoop streaming.  Aloha can be integrated with other platforms
 by using it for feature transformation and dataset production.  This is an easy path for the data scientist
 as it can alleviate the burden on extracting and transforming features, especially when extract values from
 Protocol buffers or Avro.
